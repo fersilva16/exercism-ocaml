@@ -11,6 +11,9 @@
   },
   "homepage": "https://github.com/fersilva16/exercism-ocaml#readme",
   "license": "MIT",
+  "esy": {
+    "build": "dune build -p #{self.name}"
+  },
   "dependencies": {
     "@opam/dune": "2.9.1",
     "ocaml": "4.10.x"
