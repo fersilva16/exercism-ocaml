@@ -1,0 +1,4 @@
+(executable
+ (name exercism_ocaml)
+ (modes byte native)
+ (public_name exercism_ocaml.exe))

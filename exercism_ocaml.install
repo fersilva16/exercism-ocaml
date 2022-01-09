@@ -1,0 +1,12 @@
+lib: [
+  "/home/fernando/exercism-ocaml/_esy/default/store/b/exercism__ocaml-51b412e6/install/default/lib/exercism_ocaml/META"
+  "/home/fernando/exercism-ocaml/_esy/default/store/b/exercism__ocaml-51b412e6/install/default/lib/exercism_ocaml/dune-package"
+  "/home/fernando/exercism-ocaml/_esy/default/store/b/exercism__ocaml-51b412e6/install/default/lib/exercism_ocaml/opam"
+]
+bin: [
+  "/home/fernando/exercism-ocaml/_esy/default/store/b/exercism__ocaml-51b412e6/install/default/bin/exercism_ocaml.exe"
+]
+doc: [
+  "/home/fernando/exercism-ocaml/_esy/default/store/b/exercism__ocaml-51b412e6/install/default/doc/exercism_ocaml/LICENSE"
+  "/home/fernando/exercism-ocaml/_esy/default/store/b/exercism__ocaml-51b412e6/install/default/doc/exercism_ocaml/README.md"
+]
