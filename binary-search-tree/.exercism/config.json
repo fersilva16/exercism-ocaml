@@ -1,0 +1,22 @@
+{
+  "blurb": "Insert and search for numbers in a binary tree.",
+  "authors": [
+    "voila"
+  ],
+  "contributors": [
+    "iHiD"
+  ],
+  "files": {
+    "solution": [
+      "binary_search_tree.ml"
+    ],
+    "test": [
+      "test.ml"
+    ],
+    "example": [
+      ".meta/example.ml"
+    ]
+  },
+  "source": "Josh Cheek",
+  "source_url": "https://twitter.com/josh_cheek"
+}
